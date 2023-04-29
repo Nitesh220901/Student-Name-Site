@@ -1,4 +1,4 @@
-git = basically it  track the change and save that work 
+git = basically it  track the change and save that work (tracking mechanism)
 repo = it a folder which work as a container to store the work 
 
 1. to make a new repo -
@@ -22,3 +22,5 @@ repo = it a folder which work as a container to store the work
     Use this to start the message. Like if we added a test for a function that checks leap year, we start with test. Then in short describe the work we did
 
     test: add unit test for leapYearCheck()
+
+4. publish at github ( git is on ur own machine and  github basically now u can access it from deferent device also )
