@@ -1,0 +1,25 @@
+
+1. domain name
+2. server (files served)
+3. hosting
+4. client
+
+
+1. domain - it is the name of site like neog.camp
+2. server - it is the place from where browser takes the site to us on our browser
+3. hosting - the place where we keep our site so that when we call it, it comes
+4. client - if i want to use then i will be client
+
+
+
+steps
+1. pick up file from github
+2. deploy it 
+3. u can check in deploys section about the timetaken to deply and from where it is timetaken
+4. for changing dommain name 
+    1. go to site overview section
+    2. go to domain setting
+    3. go to options ,selct edit name
+    4. give ur domain name and save it
+    
+
