@@ -1,0 +1,24 @@
+git = basically it  track the change and save that work 
+repo = it a folder which work as a container to store the work 
+
+1. to make a new repo -
+    1. go to file 
+    2. create new file,give name and description
+    3. create it
+
+2. now u can see changes on git if u do work in that repo folder 
+
+3. if u do changes u can give commit so that later u know what changes has been done by u or someone other
+
+    Writing good commit message is a skill. Let's understand this.
+    feat - a new feature
+    fix - a bug fix
+    docs - changes in documentation
+    style - everything related to styling
+    refactor - code changes that neither fixes a bug or adds a feature
+    test - everything related to testing
+    chore - updating build tasks, package manager configs, etc
+
+    Use this to start the message. Like if we added a test for a function that checks leap year, we start with test. Then in short describe the work we did
+
+    test: add unit test for leapYearCheck()
