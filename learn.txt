@@ -24,3 +24,7 @@ repo = it a folder which work as a container to store the work
     test: add unit test for leapYearCheck()
 
 4. publish at github ( git is on ur own machine and  github basically now u can access it from deferent device also )
+
+
+5. always make README.md (mark down) file when ever u make repo 
+    1. # is used in README to make heading
